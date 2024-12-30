@@ -1,0 +1,12 @@
+col chats
+{
+id
+name
+userinids [id... id... id....]
+
+messages[
+{username
+id_user_send
+text}
+]
+}
